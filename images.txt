@@ -1,4 +1,3 @@
-kicbase
 anjone/kicbase
 busybox
 #支持私库
