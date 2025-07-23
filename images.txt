@@ -1,9 +1,9 @@
-anjone/kicbase
-prom/prometheus
-grafana/grafana
-openresty/openresty
-prom/node-exporter
-openresty/openresty
+#anjone/kicbase
+#prom/prometheus
+#grafana/grafana
+#openresty/openresty
+#prom/node-exporter
+#openresty/openresty
 mysql/mysql:5.7
 phpdockerio/discuz:latest
 #支持私库
