@@ -12,3 +12,4 @@ haierkeys/obsidian-image-api-gateway:latest
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
+lmsysorg/sglang:dev-arm64-cu13
