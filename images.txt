@@ -13,5 +13,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #lmsysorg/sglang:dev-arm64-cu13
-lmsysorg/sglang:nightly-dev-cu13-20260316-d852f26c
 avarok/atlas-alpha2
