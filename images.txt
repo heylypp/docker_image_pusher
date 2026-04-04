@@ -13,5 +13,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #lmsysorg/sglang:dev-arm64-cu13
-avarok/atlas-alpha2
+#avarok/atlas-alpha2
 avarok/dgx-vllm-nvfp4-kernel:v22
